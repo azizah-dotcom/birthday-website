@@ -1,7 +1,7 @@
  // Reasons database
  const reasons = [
     { 
-        text: "hmmm, bingung mau buat kalimat apaaaa.hehehehe... 💖", 
+        text: "hmmm, bingung mau buat kalimat apaaaa...hehehehe 💖", 
         emoji: "🌟",
         gif: "gif1.gif"
     },
@@ -11,12 +11,12 @@
         gif: "gif2.gif"
     },
     { 
-        text: "semoga apa yang di cita-citakan dan di impian akan segera terwujud dalam waktu dekat ini. Aku akan selalu mendoakan yang terbaik calon suami nihh.✨ ", 
+        text: "semoga apa yang di cita-citakan dan di impian akan segera terwujud dalam waktu dekat ini. Aku akan selalu mendoakan dan mendukung untukmu.✨ ", 
         emoji: "💕",
         gif: "gif1.gif"
     },
     { 
-        text: "Tetap jadi orang baik seperti sekarang ya, jangan berubah jadi Hulk—aku belum siap punya pacar warna hijau! 😆 😊 ", 
+        text: "Tetap jadi orang baik seperti sekarang ya, dan tetap jadi pribadi yang baik..usahan juga setiap hari bahagiaa selaaluu sayangkuu!  😊 ", 
         emoji: "🌟",
         gif: "gif2.gif"
     }
